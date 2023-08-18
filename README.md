@@ -2,11 +2,7 @@
 
 ## Background
 
-This task represents what I've learned about Python Matplotlib and apply it to a real-world situation and dataset:
-
 ![Laboratory](Images/Laboratory.jpg)
-
-I've joined Pymaceuticals Inc., a burgeoning pharmaceutical company. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 As a data analyst at the company, I've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
@@ -27,11 +23,3 @@ This mission is to do the following:
 * Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
