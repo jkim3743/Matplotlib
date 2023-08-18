@@ -8,7 +8,7 @@ As a data analyst at the company, I've been given access to the complete data fr
 
 ## Overview
 
-This mission is to do the following:
+This project is to do the following:
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
