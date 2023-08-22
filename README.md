@@ -1,4 +1,4 @@
-# Pymaceuticals analysis
+# Mouse study
 
 ## Background
 
