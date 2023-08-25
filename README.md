@@ -22,4 +22,4 @@ This project is to do the following:
 
 * Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
-* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot
